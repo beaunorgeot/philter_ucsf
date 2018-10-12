@@ -58,10 +58,6 @@ Arguments:
 ![Alt text](https://github.com/beaunorgeot/images_for_presentations/blob/master/flow_v2.tif?raw=true "phi-reduction process")
 
 
-**Example Input and Output**
-![Alt text](https://github.com/beaunorgeot/images_for_presentations/blob/master/deid_note_v2.tif?raw=true)
-
-
 
 
 ### Why did we build it?
